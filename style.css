@@ -1,0 +1,109 @@
+/* STYLE SECTIONING TAGS */
+* { /* Reset the space of the webpage */
+   margin: 0px;
+   padding: 0px;
+}
+
+body {
+  height: 100%;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  
+  font-family: "Roboto", sans-serif; 
+  font-size: 20px;  
+  line-height: 1.5em;
+  color: black; 
+}
+
+header {
+  padding-top: 50px;   
+  padding-left: 30%;
+  padding-right: 30%;
+  background-color: #450e59;
+}
+
+/* STYLE TEXT */
+
+h1 {
+  font-size: 70px;
+  text-align: center;
+  color: #ffffffff;
+  line-height: 60px;  
+
+  margin: 2px;
+}
+
+h2 {
+  font-size: 32px;
+  text-align: left;
+  color: #2e073eff;
+  line-height: 60px;
+  padding-top: 60px;
+  padding-bottom: 8px;
+}
+.subtitle {
+  text-align: center;
+  font-size: 24px;
+  padding-top: 17%; 
+  color: #ffffff;
+}
+
+.imp {
+  text-align: center;
+}
+
+.maintxt {
+  padding-left: 15%;
+  padding-right: 15%;
+  padding-bottom: 2%;
+  color: black;
+}
+
+.nama {
+  padding-top:5%;
+  font-size: 60px;
+  padding-left: 35%;
+  padding-right: 27%;
+}
+
+.dontxt {
+  padding-top: 3%;
+  padding-bottom: 20px;
+  padding-left: 29%;
+  padding-right: 25%;
+  text-align: center;
+}
+
+.rsctxt {
+  font-weight: bold;
+  padding-top: 20px;
+  padding-left: 15px;
+  text-align: left;
+}
+.rsctxt-2 {
+  padding-left: 15px;
+}
+#rsc-subtitle{
+  padding-left: 7%;
+  padding-right: 3%;
+  padding-top: 2%;
+  padding-bottom: 5%;
+  font-weight: bold;
+}
+
+#abt-subtitle {
+  text-align: center;
+}
+.abttxt {
+  padding-top: 2%;
+  padding-bottom: 20px;
+  padding-left: 10%;
+  padding-right: 10%;
+  text-align: center;
+  margin-left: 20%;
+  margin-right: 20%;
+
+}
+
+
+/* STYLE IMAGES */
